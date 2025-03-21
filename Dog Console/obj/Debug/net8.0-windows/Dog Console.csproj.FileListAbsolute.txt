@@ -1,0 +1,17 @@
+C:\Users\Annuschka\OneDrive\Desktop\Coding C#\Dog Console\Dog Console\obj\Debug\net8.0-windows\Dog_Console.Form1.resources
+C:\Users\Annuschka\OneDrive\Desktop\Coding C#\Dog Console\Dog Console\obj\Debug\net8.0-windows\Dog Console.csproj.GenerateResource.cache
+C:\Users\Annuschka\OneDrive\Desktop\Coding C#\Dog Console\Dog Console\obj\Debug\net8.0-windows\Dog Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Annuschka\OneDrive\Desktop\Coding C#\Dog Console\Dog Console\obj\Debug\net8.0-windows\Dog Console.AssemblyInfoInputs.cache
+C:\Users\Annuschka\OneDrive\Desktop\Coding C#\Dog Console\Dog Console\obj\Debug\net8.0-windows\Dog Console.AssemblyInfo.cs
+C:\Users\Annuschka\OneDrive\Desktop\Coding C#\Dog Console\Dog Console\obj\Debug\net8.0-windows\Dog Console.csproj.CoreCompileInputs.cache
+C:\Users\Annuschka\OneDrive\Desktop\Coding C#\Dog Console\Dog Console\bin\Debug\net8.0-windows\Dog Console.exe
+C:\Users\Annuschka\OneDrive\Desktop\Coding C#\Dog Console\Dog Console\bin\Debug\net8.0-windows\Dog Console.deps.json
+C:\Users\Annuschka\OneDrive\Desktop\Coding C#\Dog Console\Dog Console\bin\Debug\net8.0-windows\Dog Console.runtimeconfig.json
+C:\Users\Annuschka\OneDrive\Desktop\Coding C#\Dog Console\Dog Console\bin\Debug\net8.0-windows\Dog Console.dll
+C:\Users\Annuschka\OneDrive\Desktop\Coding C#\Dog Console\Dog Console\bin\Debug\net8.0-windows\Dog Console.pdb
+C:\Users\Annuschka\OneDrive\Desktop\Coding C#\Dog Console\Dog Console\obj\Debug\net8.0-windows\Dog Console.dll
+C:\Users\Annuschka\OneDrive\Desktop\Coding C#\Dog Console\Dog Console\obj\Debug\net8.0-windows\refint\Dog Console.dll
+C:\Users\Annuschka\OneDrive\Desktop\Coding C#\Dog Console\Dog Console\obj\Debug\net8.0-windows\Dog Console.pdb
+C:\Users\Annuschka\OneDrive\Desktop\Coding C#\Dog Console\Dog Console\obj\Debug\net8.0-windows\Dog Console.genruntimeconfig.cache
+C:\Users\Annuschka\OneDrive\Desktop\Coding C#\Dog Console\Dog Console\obj\Debug\net8.0-windows\ref\Dog Console.dll
+C:\Users\Annuschka\OneDrive\Desktop\Coding C#\Dog Console\Dog Console\obj\Debug\net8.0-windows\Dog_Console.Properties.Resources.resources
